@@ -1,5 +1,6 @@
 |序号|文章|知识点|学习时间|备注|
 |:--:|:--:|:--|:--:|:--|
+|10|[【iOS 三种工厂模式(简单工厂模式、工厂模式、抽象工厂模式)](https://www.jianshu.com/p/847af218b1f0)|工厂模式|2020-02-14|
 |9|[【剑指offer】异或去重](https://blog.csdn.net/ns_code/article/details/27568975)|异或去重算法|2020-01-18|
 |8|[基本算法——深度优先搜索（DFS）和广度优先搜索（BFS）](https://www.jianshu.com/p/bff70b786bb6)||2020-01-16|
 |7|[数据结构：八大数据结构分类](https://blog.csdn.net/yeyazhishang/article/details/82353846)||2020-01-16|
